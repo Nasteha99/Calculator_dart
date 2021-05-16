@@ -31,7 +31,8 @@ void main(){
     print(n1 * n2);
   else if(ope == "%")
     print(n1 % n2);
-
+ else
+    print("Invalide operator");
   
 
 
